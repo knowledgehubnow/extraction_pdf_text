@@ -33,6 +33,7 @@ ALLOWED_HOSTS = []
 
 INSTALLED_APPS = [
     "pdf_text_extraction",
+    'django_cleanup.apps.CleanupConfig',
     "rest_framework",
     'django.contrib.admin',
     'django.contrib.auth',
