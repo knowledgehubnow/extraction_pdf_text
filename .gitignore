@@ -1,6 +1,3 @@
-__pycache__/
-*.pyc
-*.pyo
 db.sqlite3
 media/images
 media/pdf
